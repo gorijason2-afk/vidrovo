@@ -1,0 +1,2 @@
+# vidrovo
+Vidrovo Player config
